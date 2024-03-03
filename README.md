@@ -2,4 +2,5 @@
 
 Visualization in Terminal
 
-![Visualization](https://github.com/colbysprague/MazeSolverPy/raw/main/assets/116236720/00b3ea9d-4f1a-4af6-b794-f8ba22f2d609.gif)
+https://github.com/colbysprague/MazeSolverPy/assets/116236720/eaa20f76-3172-4c9b-8996-f47af17eedb2
+
